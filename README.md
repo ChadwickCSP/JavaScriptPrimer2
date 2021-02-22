@@ -22,7 +22,7 @@ In this project, you will take a deep dive into Javascript programming independe
 ### Sign up for Project
 
 Sign up for the project repository here: 
-[https://classroom.github.com/a/r1oRlrh8](https://classroom.github.com/a/r1oRlrh8)
+[https://classroom.github.com/a/1LldVyEG](https://classroom.github.com/a/1LldVyEG)
 
 After your repository has initialized it, clone it to your computer. I recommend
 putting it in your `ap-csp` directory.
